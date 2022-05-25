@@ -6,9 +6,9 @@ f_ward|stem|52ca05f9aeff4e17|075e2db07ab51f2a|56e88ddad9b11570|981501705|data/sw
 f_ticket|stem|ca1aa9e1da6b8224|4eadd31c02dfec13|56e88ddad9b11570|-428168908|data/ticket/chicago_parking_tickets.csv|t18109.6253240741s|62546d0af75ca586|21144803715|file|vector|||0.001||
 schedule|stem|f7e64fe168023cd8|2de703cb3b5e0f0c|859dfff214244122|-1560712809||t19137.8894485036s|f55d94d51b5f7f4f|158487|parquet|vector|||0.523|9 failed to parse.|
 ward|stem|7e061ad335a445d2|2223e7cf6171985b|1599402b3c0eb018|-1213968861||t19137.8894847389s|36e5ce985e082449|5958899|qs|vector|||3.053||
+ticket|stem|4bd69e9ac1c8df83|6cc4809c62a6b8a8|0f44eabecc5ee599|-1018129682||t19137.9196869277s|ccad6000356b9f6c|18461445|parquet|vector|||17.312||
+erroneous|stem|df4a130ca9073a81|a73a4d848f46b8ea|f17b35ad8bed1a2b|-1383533404||t19137.9198449334s|426905efd3bae28b|20043352|qs|vector|||12.517||
 read_ward|function|33a044d1864e1442||||||||||||||
 read_schedule|function|2386bc8298bce653||||||||||||||
 read_ticket|function|35e92d8b5188309e||||||||||||||
 sweeping|function|79cfa02820eed04d||||||||||||||
-ticket|stem|4bd69e9ac1c8df83|6cc4809c62a6b8a8|0f44eabecc5ee599|-1018129682||t19137.9196869277s|ccad6000356b9f6c|18461445|parquet|vector|||17.312||
-erroneous|stem|df4a130ca9073a81|a73a4d848f46b8ea|f17b35ad8bed1a2b|-1383533404||t19137.9198449334s|426905efd3bae28b|20043352|qs|vector|||12.517||
