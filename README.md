@@ -4,4 +4,4 @@ Identifying erroneous tickets in Chicago. We focus here on tickets issued by the
 
 ## Latest pipeline
 
-![asd](/pipeline.png)
+![pipeline](/pipeline.png)
