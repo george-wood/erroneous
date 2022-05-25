@@ -1,0 +1,14 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+read_sweeping|function|3dfd5c3535fb1a6a||||||||||||||
+W|object|9c2f39c6f5fe964c||||||||||||||
+f_schedule|stem|a23c5161b0a12d1b|133aa61346305641|56e88ddad9b11570|511939958|data/sweeping/schedule/Street_Sweeping_Schedule_-_2014.csv*data/sweeping/schedule/Street_Sweeping_Schedule_-_2015_-_April-May.csv*data/sweeping/schedule/Street_Sweeping_Schedule_-_2015_-_May-November.csv*data/sweeping/schedule/Street_Sweeping_Schedule_-_2016.csv*data/sweeping/schedule/Street_Sweeping_Schedule_-_2017.csv*data/sweeping/schedule/Street_Sweeping_Schedule_-_2018.csv|t19132.9330831085s|3c6fbd0689b43ecb|563494|file|vector|||0.229||
+f_ward|stem|52ca05f9aeff4e17|075e2db07ab51f2a|56e88ddad9b11570|981501705|data/sweeping/ward/Street Sweeping - 2014 - Map.geojson*data/sweeping/ward/Street Sweeping - 2015 - April-May - Map.geojson*data/sweeping/ward/Street Sweeping - 2015 - May-November - Map.geojson*data/sweeping/ward/Street Sweeping - 2016 - Map.geojson*data/sweeping/ward/Street Sweeping - 2017 - Map.geojson*data/sweeping/ward/Street Sweeping - 2018 - Map.geojson|t19135.6282765652s|a7d443eb06bacb7a|24718331|file|vector|||0.001||
+f_ticket|stem|ca1aa9e1da6b8224|4eadd31c02dfec13|56e88ddad9b11570|-428168908|data/ticket/chicago_parking_tickets.csv|t18109.6253240741s|62546d0af75ca586|21144803715|file|vector|||0.001||
+schedule|stem|f7e64fe168023cd8|2de703cb3b5e0f0c|859dfff214244122|-1560712809||t19137.8894485036s|f55d94d51b5f7f4f|158487|parquet|vector|||0.523|9 failed to parse.|
+ward|stem|7e061ad335a445d2|2223e7cf6171985b|1599402b3c0eb018|-1213968861||t19137.8894847389s|36e5ce985e082449|5958899|qs|vector|||3.053||
+read_ward|function|33a044d1864e1442||||||||||||||
+read_schedule|function|2386bc8298bce653||||||||||||||
+read_ticket|function|35e92d8b5188309e||||||||||||||
+sweeping|function|79cfa02820eed04d||||||||||||||
+ticket|stem|4bd69e9ac1c8df83|6cc4809c62a6b8a8|0f44eabecc5ee599|-1018129682||t19137.9196869277s|ccad6000356b9f6c|18461445|parquet|vector|||17.312||
+erroneous|stem|df4a130ca9073a81|a73a4d848f46b8ea|f17b35ad8bed1a2b|-1383533404||t19137.9198449334s|426905efd3bae28b|20043352|qs|vector|||12.517||
