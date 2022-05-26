@@ -1,4 +1,4 @@
-#' run targets sequentially:
+# run targets sequentially:
 targets::tar_make()
 
 # latest pipeline

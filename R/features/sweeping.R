@@ -7,7 +7,6 @@ sweeping <- function(ticket, schedule, ward) {
       fifelse(between(dt, change, end), year(dt) + 1e-01, year(dt))
     }
 
-  # filter to street cleaning
   t <- 
     ticket |>
     filter(
