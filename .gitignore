@@ -1,6 +1,9 @@
 # Large data files
 /data/ticket/chicago_parking_tickets.csv
 
+# html dependencies
+/lib
+
 # Generic
 *.DS_store
 

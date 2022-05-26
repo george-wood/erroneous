@@ -5,5 +5,3 @@ Identifying erroneous tickets in Chicago. We focus here on tickets issued by the
 ## Latest pipeline
 
 ![pipeline](/pipeline.png)
-
-https://github.com/george-wood/erroneous/blob/main/pipeline.html
